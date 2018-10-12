@@ -1,0 +1,6 @@
+node_modules
+node_modules/
+dist
+.vscode
+../../set_up_your_react_environment/react-demo/src/index.css
+.env
