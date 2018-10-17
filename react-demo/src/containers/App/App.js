@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom';
-import Page from './Page/Page';
+import Page from '../Page/Page';
 
 // ========================================
 
