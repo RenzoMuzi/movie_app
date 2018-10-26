@@ -14,7 +14,7 @@ const Suggestions = ({ results, onClick }) =>
 
 export default Suggestions;
 
-Suggestions.prototype = {
-  results: PropTypes.array.isRequired,
+Suggestions.propTypes = {
+  results: PropTypes.array,
   onClick: PropTypes.func.isRequired,
 }

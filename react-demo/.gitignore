@@ -4,3 +4,5 @@ dist
 .vscode
 ../../set_up_your_react_environment/react-demo/src/index.css
 .env
+scratches/
+redux-basics.js

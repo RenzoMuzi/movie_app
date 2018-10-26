@@ -13,6 +13,6 @@ const Movies = ({ resultsForSubmit }) =>
 
 export default Movies;
 
-Movies.prototype = {
-  resultsForSubmit: PropTypes.array.isRequired
+Movies.propTypes = {
+  resultsForSubmit: PropTypes.array,
 }
